@@ -1,0 +1,55 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.checked{
+    color: orange;
+}
+.unchecked{
+    color: white;
+}
+
+.vl {
+    border-left: 2px solid white;
+    height: 16px;
+  }
+
+.instructor{
+    height: 32px;
+}
+
+.enroll-btn{
+    background-color:gold;
+}
+
+.university{
+    height: 200px;
+}
+
+.tick{
+    color: green;
+}
+
+.skills{
+    padding-left: 10px;
+}
+
+.bg-career{
+background: #5433FF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #A5FECB, #20BDFF, #5433FF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #A5FECB, #20BDFF, #5433FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.bg-benefit{
+    background: #654ea3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.enroll-tick{
+ color: #2a73cc;
+}
+
+.certificateImg{
+    width: 50%;
+}
